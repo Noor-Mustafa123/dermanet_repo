@@ -9,7 +9,7 @@
         <relativePath/>
     </parent>
     <groupId>io.github.nomus</groupId>
-    <artifactId>dermanet-java-be</artifactId>
+    <artifactId>backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>dermanet-java-be</name>
     <description>Dermanet Spring Boot Backend</description>
